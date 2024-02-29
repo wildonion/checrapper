@@ -5,5 +5,6 @@ pip3 install selenium scrapy
 ```
 
 # Run 
-```python3 scrap.py
+```bash
+python3 scrap.py
 ```
